@@ -1,3 +1,5 @@
 # Screen density
 ro.sf.lcd_density=480
 
+# sd-card reference uid for write access
+ro.sys.sdcard_rw_refuid=0AA4-1DEB
